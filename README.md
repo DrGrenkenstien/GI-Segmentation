@@ -3,7 +3,7 @@
 ### This model helps to identify position of organs using MRI scan which better helps the radiologists to target only cancer cells, with great accurracy, using X-ray therapy and reduces any damage done to nearby organs.  
 
 ## How to use?
-### As of now, the MRI image needs to be hardcoded in the script itself. Then use the model to output the segmented mask of each organ.
+### As of now, the MRI image path needs to be hardcoded in the script itself. Then use the model to output the segmented mask of each organ.
 
 ## Here are the few Images showcasing how the output might look.
 
